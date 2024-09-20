@@ -1,14 +1,3 @@
-{
-	"assayId": {
-		"term": "identifier",	
-		"uri": "http://edamontology.org/data_0842"
-	},
-	"sampleIdFilter": {
-		"term": "identifier",	
-		"uri": "http://edamontology.org/data_0842"
-	},
-	"sampleId": {
-		"term": "identifier",	
-		"uri": "http://edamontology.org/data_0842"
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:954d10ce44b05987269dd5212bb6fe7d32a233d72ac76dead40388f192a18d68
+size 275

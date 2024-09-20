@@ -1,30 +1,3 @@
-{
-	"pEnd": "null",
-	"dbtype": "null",
-	"gend": "null",
-	"upid": {
-		"term": "identifier",	
-		"uri": "http://edamontology.org/data_0842"
-	},
-	"terms": {
-		"term": "identifier",	
-		"uri": "http://edamontology.org/data_0842"
-	},
-	"accession": {
-		"term": "identifier",	
-		"uri": "http://edamontology.org/data_0842"
-	},
-	"gstart": "null",
-	"pStart": "null",
-	"dbid": {
-		"term": "identifier",	
-		"uri": "http://edamontology.org/data_0842"
-	},
-	"taxonomy": {
-		"term": "identifier",	
-		"uri": "http://edamontology.org/data_0842"
-	},
-	"chromosome": "null",
-	"type": "null",
-	"pPosition": "null"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f070150a89c1cbeeb0f5e55373887b6a1b5a1a4df4119b1cbef0fa773e3b8c0
+size 591

@@ -1,13 +1,3 @@
-{
-	"orcid": {
-		"term": "identifier",	
-		"uri": "http://edamontology.org/data_0842"
-	},
-	"putCode": "null",
-	"client_id": {
-		"term": "identifier",	
-		"uri": "http://edamontology.org/data_0842"
-	},
-	"putCodes": "null",
-	"type": "null"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b529c8068180e811bcd57b8ada76c56a56faa1ea9010244580ed9a0864efb24
+size 237
